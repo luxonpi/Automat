@@ -1,6 +1,9 @@
 This is a GAN architecture based on Pix2Pix whicht is trained to produce whole PBR Texture Sets from an input albedo.
 Additional controll over the generation process is provided by adding the desired value distributions of the target textures .
 
+![alt text](resources/example.png "Example")
+
+
 Install Python Dependencies:
 pip install -r requirements.txt
 

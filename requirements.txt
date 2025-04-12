@@ -1,0 +1,17 @@
+datasets
+Pillow
+torch
+torchvision
+torchaudio
+dominate>=2.4.0
+visdom>=0.1.8.8
+wandb
+imageio
+tqdm
+moderngl
+numpy
+objloader
+pyglm==2.5.0
+opencv-python
+matplotlib
+pyiqa
